@@ -4,9 +4,10 @@ title:  "Debian LTS report for February 2020"
 date:   2020-03-03 10:48:49 +0100
 categories: debian lts
 ---
+
 Hi,
 
-February was my 2nd month as a Debian LTS paid contributor.
+February was my 2nd month as a [Debian LTS](https://wiki.debian.org/LTS) paid contributor, a [Freexian](https://www.freexian.com/services/debian-lts.html)'s initiative.
 I was assigned 4 hours (+ 1,5 hours from January) and I spent all of them for the following:
 
 [rake](https://tracker.debian.org/pkg/rake):
@@ -23,3 +24,5 @@ I was assigned 4 hours (+ 1,5 hours from January) and I spent all of them for th
 
 --
 Dylan
+
+<div style="text-align: center"><img src="/assets/images/Debian_LTS-2.png" width="200" /></div>
